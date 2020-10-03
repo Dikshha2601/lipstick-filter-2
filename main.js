@@ -1,11 +1,7 @@
 var noseX = 0;
 var noseY = 0;
 
-function preload() {
-  clown_nose = loadImage(
-    "https://p7.hiclipart.com/preview/42/514/372/lip-balm-kiss-lipstick-red-lips.jpg"
-  );
-}
+function preload() {}
 
 function setup() {
   canvas = createCanvas(300, 300);
