@@ -1,0 +1,14 @@
+h3 {
+  font-size: 25px !important;
+}
+
+canvas {
+  border: 2px dashed black;
+}
+
+body {
+  background-image: url("lipstick_bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
